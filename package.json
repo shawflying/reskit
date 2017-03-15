@@ -1,6 +1,6 @@
 {
-  "name": "reskit",
-  "version": "0.0.1",
+  "name": "yanxxit-reskit",
+  "version": "0.0.3",
   "description": "utils",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "reskit",
     "util"
   ],
-  "author": "yxxit",
+  "author": "yanxxit",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shawflying/reskit/issues"
