@@ -1,0 +1,24 @@
+{
+  "name": "reskit",
+  "version": "0.0.1",
+  "description": "utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawflying/reskit.git"
+  },
+  "keywords": [
+    "nodejs",
+    "reskit",
+    "util"
+  ],
+  "author": "yxxit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawflying/reskit/issues"
+  },
+  "homepage": "https://github.com/shawflying/reskit#readme"
+}
