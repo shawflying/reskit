@@ -1,6 +1,6 @@
 {
   "name": "yanxxit-reskit",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "utils",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/shawflying/reskit/issues"
   },
-  "homepage": "https://github.com/shawflying/reskit#readme"
+  "homepage": "https://github.com/shawflying/reskit#readme",
+  "dependencies": {
+    "moment": "^2.17.1"
+  }
 }
