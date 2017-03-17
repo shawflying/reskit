@@ -9,6 +9,4 @@ exports.isIdCard = CommonUtil.isIdCard;
 exports.isIP = CommonUtil.isIP;
 exports.isMobile = CommonUtil.isMobile;
 exports.isURL = CommonUtil.isURL;
-
-
-console.log(exports.version);
+exports.transTimesTamp = CommonUtil.transTimesTamp;
