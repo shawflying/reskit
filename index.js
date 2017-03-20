@@ -10,3 +10,6 @@ exports.isIP = CommonUtil.isIP;
 exports.isMobile = CommonUtil.isMobile;
 exports.isURL = CommonUtil.isURL;
 exports.transTimesTamp = CommonUtil.transTimesTamp;
+exports.isOpenid = CommonUtil.isOpenid;
+exports.isTelephone = CommonUtil.isTelephone;
+exports.isDeviceno = CommonUtil.isDeviceno;
