@@ -4,6 +4,7 @@ var CommonUtil = require('./lib/CommonUtil');
 
 exports.version = package.version;
 exports.params = ResKit.params;
+exports.csb = ResKit.csb;
 exports.isEmail = CommonUtil.isEmail;
 exports.isIdCard = CommonUtil.isIdCard;
 exports.isIP = CommonUtil.isIP;
