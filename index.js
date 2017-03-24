@@ -13,3 +13,4 @@ exports.transTimesTamp = CommonUtil.transTimesTamp;
 exports.isOpenid = CommonUtil.isOpenid;
 exports.isTelephone = CommonUtil.isTelephone;
 exports.isDeviceno = CommonUtil.isDeviceno;
+exports.uniqArray = CommonUtil.uniqArray
