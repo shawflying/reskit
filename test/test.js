@@ -1,4 +1,4 @@
-var ResKit = require('./index');
+var ResKit = require('../dist');
 
 console.log('当前版本号:' + ResKit.version);
 console.log(ResKit.params());

@@ -1,35 +1,35 @@
 {
-    "name": "yanxxit-reskit",
-    "version": "0.0.14",
-    "description": "utils",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/shawflying/reskit.git"
-    },
-    "keywords": [
-        "nodejs",
-        "reskit",
-        "util"
-    ],
-    "author": "yanxxit",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/shawflying/reskit/issues"
-    },
-    "homepage": "https://github.com/shawflying/reskit#readme",
-    "dependencies": {
-        "moment": "^2.17.1",
-        "underscore": "^1.8.3"
-    },
-    "devDependencies": {
-        "babel-preset-es2015": "^6.24.0",
-        "gulp": "^3.9.1",
-        "gulp-babel": "^6.1.2",
-        "gulp-jshint": "^2.0.4",
-        "gulp-uglify": "^2.1.2"
-    }
+  "name": "yanxxit-reskit",
+  "version": "0.0.15",
+  "description": "utils",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawflying/reskit.git"
+  },
+  "keywords": [
+    "nodejs",
+    "reskit",
+    "util"
+  ],
+  "author": "yanxxit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shawflying/reskit/issues"
+  },
+  "homepage": "https://github.com/shawflying/reskit#readme",
+  "dependencies": {
+    "moment": "^2.17.1",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^2.1.2"
+  }
 }

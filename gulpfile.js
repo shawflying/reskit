@@ -1,13 +1,14 @@
 var gulp = require('gulp');
 var babel = require("gulp-babel");
+// var jshint = require("gulp-jshint");
 var uglify = require('gulp-uglify'); //加载js压缩
 
 //js 代码校验
-gulp.task('jsLint', function() {
-    gulp.src('lib/*.js')
-        .pipe(jshint())
-        .pipe(jshint.reporter()); // 输出检查结果
-});
+// gulp.task('jsLint', function() {
+//     gulp.src('lib/*.js')
+//         .pipe(jshint())
+//         .pipe(jshint.reporter()); // 输出检查结果
+// });
 
 //js 压缩
 gulp.task('build:js', function() {
