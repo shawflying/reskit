@@ -1,0 +1,1 @@
+"use strict";var RegExpUtil={};RegExpUtil.isMobile=function(t){return/^[1][123456789]\d{9}$/.test(t)},module.exports=RegExpUtil;
