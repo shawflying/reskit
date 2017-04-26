@@ -12,8 +12,12 @@ console.log(ResKit.transTimesTamp('20170316173112'));
 
 console.log('是否为openID：' + ResKit.isOpenid('oKXUCj1MOddnp-sCpGi1J1dg3TyM'))
 console.log('是否为openID：' + ResKit.isOpenid('123'))
-console.log('是否为固话：' + ResKit.isTelephone('1772102-'))
-console.log('是否为设备号：' + ResKit.isDeviceno('AD345678900'))
+console.log('是否为固话：' + ResKit.isTelephone('62438858'))
+console.log('是否为固话：' + ResKit.isTelephone('024-62438858'))
+console.log('是否为手机：' + ResKit.isMobile('15806111230'))
+console.log('是否为手机：' + ResKit.isMobile('1680611123-'))
+console.log('是否为宽带：' + ResKit.isDeviceno('AD0000410879'))
+console.log('是否为宽带：' + ResKit.isDeviceno('Ad00004108--'))
 
 
 var data = [{
