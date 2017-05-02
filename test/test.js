@@ -16,8 +16,15 @@ console.log('是否为固话：' + ResKit.isTelephone('62438858'))
 console.log('是否为固话：' + ResKit.isTelephone('024-62438858'))
 console.log('是否为手机：' + ResKit.isMobile('15806111230'))
 console.log('是否为手机：' + ResKit.isMobile('1680611123-'))
+
+console.log("----------------------");
 console.log('是否为宽带：' + ResKit.isDeviceno('AD0000410879'))
 console.log('是否为宽带：' + ResKit.isDeviceno('Ad00004108--'))
+
+console.log('是否为固话：' + ResKit.isDeviceno('62438858'))
+console.log('是否为固话：' + ResKit.isDeviceno('024-62438858'))
+console.log('是否为手机：' + ResKit.isDeviceno('15806111230'))
+console.log('是否为手机：' + ResKit.isDeviceno('1680611123-'))
 
 
 var data = [{
