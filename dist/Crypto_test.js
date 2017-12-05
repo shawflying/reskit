@@ -1,0 +1,1 @@
+"use strict";var tool=require("./Crypto_tool"),moment=require("moment"),value="admin",key="mohoo",myEncodeValue=tool.tool_Encrypt(value,key),myDecodeValue=tool.tool_Decrypt(myEncodeValue,key);console.log("原始值："+value),console.log("加密结果："+myEncodeValue),console.log("解密信息："+myDecodeValue);

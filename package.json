@@ -1,6 +1,6 @@
 {
     "name": "yanxxit-reskit",
-    "version": "0.0.22",
+    "version": "0.0.24",
     "description": "utils",
     "main": "dist/index.js",
     "scripts": {
